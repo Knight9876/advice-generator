@@ -1,0 +1,17 @@
+<svg width="600" height="16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd">
+    <!-- Left Line -->
+    <path fill="#9CA3AF" d="M-20 8h290v1H0z"/>
+    
+    <!-- Original Pattern Divider -->
+    <path fill="#4F5D74" d="M290 8h20v1H290z"/>
+    <path fill="#4F5D74" d="M330 8h20v1H330z"/>
+    <g transform="translate(290)" fill="#CEE3E9">
+      <rect width="6" height="16" rx="3"/>
+      <rect x="14" width="6" height="16" rx="3"/>
+    </g>
+
+    <!-- Right Line -->
+    <path fill="#9CA3AF" d="M330 8h250v1H350z"/>
+  </g>
+</svg>
