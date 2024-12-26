@@ -22,8 +22,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Knight9876/social-links)
-- Live Site URL: [Live URL](https://social-links-tailwind.netlify.app)
+- Solution URL: [Solution](https://github.com/Knight9876/advice-generator)
+- Live Site URL: [Live URL](https://advice-generator-tailwind.netlify.app)
 
 ## My process
 
